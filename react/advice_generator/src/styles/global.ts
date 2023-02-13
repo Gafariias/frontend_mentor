@@ -7,8 +7,9 @@ export default createGlobalStyle`
         --font_color: hsl(193, 38%, 86%);
         --font_color_highlight: hsl(217, 19%, 38%);
         --neon: hsl(150, 100%, 66%);
+        --shadow: hsla(150, 100%, 66%, 0.342);
 
-        --font: font-family: 'Manrope', sans-serif;
+        --font: 'Manrope', sans-serif;
     }
 
     * {
